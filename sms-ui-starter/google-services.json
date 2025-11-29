@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130973429833",
+    "project_id": "rcoem-sms-f3d44",
+    "storage_bucket": "rcoem-sms-f3d44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130973429833:android:00948905eaf2069afd4f98",
+        "android_client_info": {
+          "package_name": "com.company.rcoemsms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh21UFS9axf4ZcAaS6HTJ-v0iKXJmFSHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
